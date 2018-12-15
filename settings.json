@@ -1,0 +1,57 @@
+{
+    // Place your settings in this file to overwrite the default settings
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code,'Monaco'",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 30,
+    "window.zoomLevel": 0,
+    "eslint.autoFixOnSave": true,
+    "prettier.singleQuote": true,
+    "prettier.semi": true,
+    "prettier.tabWidth": 4,
+    "prettier.printWidth": 120,
+    "workbench.startupEditor": "newUntitledFile",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+        "jsx-sublime-babel-tags": "javascriptreact",
+        "typescript": "html"
+    },
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "explorer.confirmDelete": false,
+    "gitlens.keymap": "alternate",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "editor.minimap.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "sonarlint.connectedMode.servers": [
+        {
+            "serverId": "sonar.it.att.com", // Connection identifier
+            "serverUrl": "http://sonar.it.att.com/dashboard?id=27993%3Acom.att.mybi%3Amybiportalui", // SonarQube/SonarCloud URL - https//sonarcloud.io for SonarCloud
+            "organizationKey": "mybi", // Organization key in SonarCloud only
+            "token": "fba12ba9204531365e4caf8084c4ad2d75868e14"
+        }
+    ],
+    "gitlens.historyExplorer.enabled": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "breadcrumbs.enabled": false,
+    "sonarlint.ls.javaHome": "C:/Program Files/Java/jre1.8.0_181",
+    "editor.fontWeight": "500",
+    "workbench.colorTheme": "Kary Pro Colors － Dark",
+    "editor.letterSpacing": 0.4,
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true
+}

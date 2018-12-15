@@ -1,0 +1,9 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "ctrl+j",
+        "command": "editor.action.joinLines",
+        "when": ""
+    },
+    { "key": "ctrl+k", "command": "workbench.action.terminal.clear", "when": "terminalFocus" }
+]
